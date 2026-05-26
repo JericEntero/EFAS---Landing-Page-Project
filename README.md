@@ -6,13 +6,21 @@ Project Structure
 
 my-project/
   ├── index.html
+ 
   ├── css/
+ 
   │   ├── bootstrap.min.css
+
   │   └── custom.css
+
   ├── js/
+
   │   ├── bootstrap.bundle.min.js
+
   │   └── custom.js
+
   ├── img/
+
   │   └── (all images used in the project)
 
 Features
