@@ -5,6 +5,7 @@ EFAS Vault is a user-friendly, secure and responsive web based digital vault int
 Project Structure
 
 my-project/
+  
   ├── index.html
  
   ├── css/
